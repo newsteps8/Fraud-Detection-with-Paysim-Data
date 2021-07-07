@@ -6,7 +6,7 @@ Title: Fraud Detection on Financial Data
 Dataset link: https://www.kaggle.com/ntnu-testimon/paysim1
 
 
-*Project Explanation*
+#Project Explanation#
 
 The financial services industry and the industries that involve financial transactions are suffering from fraud-related losses and damages. The number of fraudulent customers has reached a high level in recent years. The reason for this is the money stolen from banks. The shift to the digital space opens new channels for financial service delivery. It also created a rich environment for scammers. As a consequence of this, the need for automatic systems which are able to detect and fight fraudsters has emerged.
 Fraud detection is notably a challenging problem because;
@@ -31,4 +31,6 @@ There are 11 columns and 6.362.622 rows in our dataset.
 
 
 Classification Experiments:
+
+
 
