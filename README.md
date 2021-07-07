@@ -6,7 +6,7 @@ Title: Fraud Detection on Financial Data
 Dataset link: https://www.kaggle.com/ntnu-testimon/paysim1
 
 
-#Project Explanation#
+# Project Explanation
 
 The financial services industry and the industries that involve financial transactions are suffering from fraud-related losses and damages. The number of fraudulent customers has reached a high level in recent years. The reason for this is the money stolen from banks. The shift to the digital space opens new channels for financial service delivery. It also created a rich environment for scammers. As a consequence of this, the need for automatic systems which are able to detect and fight fraudsters has emerged.
 Fraud detection is notably a challenging problem because;
@@ -26,11 +26,11 @@ There are 11 attributes in our data with approximately 6.3 million instances. At
 Our main purpose is to detect fraud activities in transactions between accounts.
 Our project will take the financial sector one step further by identifying fraud, which is the bleeding wound of the financial sector, through machine learning by modeling in a way to detect fraud using the data set we have obtained.
 
-Data Statistics:
+# Data Statistics:
 There are 11 columns and 6.362.622 rows in our dataset.
 
 
-Classification Experiments:
+# Classification Experiments:
 ![alt text](https://github.com/newsteps8/Fraud-Detection-with-Paysim-Data/blob/main/CSE4062S21_Group8_Project_Delivery7_FinalReport_Table1.png)
 
 
