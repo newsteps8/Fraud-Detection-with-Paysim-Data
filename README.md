@@ -31,6 +31,7 @@ There are 11 columns and 6.362.622 rows in our dataset.
 
 
 Classification Experiments:
+![alt text](https://github.com/newsteps8/Fraud-Detection-with-Paysim-Data/blob/main/)
 
 
 
